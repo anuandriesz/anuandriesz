@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anuandriesz
+- 👋 Hi, I’m Anu
 - 👀 I’m interested in IOT /Android technologies
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ML,Android ,IOT
