@@ -2,7 +2,7 @@
 - 👀 I’m interested in IOT /Android technologies
 - 🌱 I’m currently learning REACT NATIVE
 - 💞️ I’m looking to collaborate on Android ,IOT
-- 📫 How to reach me 
+- 📫 Reach me on anuandriesz@gmail.com 
 
 <!---
 anuandriesz/anuandriesz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
