@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Anu
+- 👋 Hi, I’m Anu Andriesz
 - 👀 I’m interested in IOT /Android technologies
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on ML,Android ,IOT
+- 🌱 I’m currently learning REACT NATIVE
+- 💞️ I’m looking to collaborate on Android ,IOT
 - 📫 How to reach me 
 
 <!---
