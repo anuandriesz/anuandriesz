@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anu Andriesz
 - 👀 I’m interested in IOT /Android technologies
-- 🌱 I’m currently learning REACT NATIVE & IOS
-- 💞️ I’m looking to collaborate on Android ,IOT
+- 🌱 I’m currently learning IOS 
+- 💞️ I’m looking to collaborate on Android ,IOT ,IOS 
 - 📫 Reach me on anuandriesz@gmail.com 
 
 <!---
