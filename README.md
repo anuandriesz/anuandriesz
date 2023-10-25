@@ -6,11 +6,11 @@
   <img align="left" alt="Anu's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <br /> <br />
-Hey there,  I'm [Anu Andriesz](https://github.com/anuandriesz), 
+Hey there,  I'm Anu Andriesz, 
 Mobile app developer with 6+ years of experience, passionate about coding, and a love for travel and fitness! 💻🌍💪 Committed to making a difference in children's lives through social work. 🤝❤️
 <br />
 
-- 👨🏽‍💻 I’m currently working on [android](https://developer.android.com/docs) and [react-native](https://reactnative.dev/)
+- 👨🏽‍💻 I’m currently working on [Android](https://developer.android.com/docs) and [react-native](https://reactnative.dev/)
 - 🌱 I’m currently learning [jetpack compose](https://developer.android.com/jetpack/compose)
 - 💬 Ask me about anything, I am happy to help
 
