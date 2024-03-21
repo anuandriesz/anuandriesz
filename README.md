@@ -11,7 +11,7 @@ Mobile app developer with 6+ years of experience, passionate about coding, and a
 <br />
 
 - 👨🏽‍💻 I’m currently working on [Android](https://developer.android.com/docs) and [react-native](https://reactnative.dev/)
-- 🌱 I’m currently learning [jetpack compose](https://developer.android.com/jetpack/compose)
+- 🌱 I’m currently learning IOS Native
 - 💬 Ask me about anything, I am happy to help
 
 **Languages and Tools:**  
